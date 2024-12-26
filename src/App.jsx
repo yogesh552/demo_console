@@ -1,4 +1,5 @@
 import { BrowserRouter, Routes, Route, useLocation, useNavigate, Navigate } from 'react-router-dom';
+import '../public/css/common/App.css'
 import Header from './components/header/header.jsx';
 import Footer from './components/footer/footer.jsx';
 import Sidebar from './components/sidebar/sidebar.jsx';
